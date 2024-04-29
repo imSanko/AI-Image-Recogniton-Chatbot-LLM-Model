@@ -23,7 +23,7 @@ def get_gemini_response(input, image):
 
 # Initialize our Streamlit app
 st.set_page_config(
-    page_title="Gemini Image Demo",
+    page_title="Gemini Mode Sappy Image Recognition",
     page_icon=":camera:",
     layout="wide",
     initial_sidebar_state="expanded",
