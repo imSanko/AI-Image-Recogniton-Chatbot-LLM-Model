@@ -54,9 +54,28 @@ streamlit run app.py
 5. The response will be displayed in the application, with longer responses streamed in chunks.
 
 ## Contributing
+Refer to > https://github.com/imSanko/AI-Image-Recogniton-Chatbot/blob/main/CONTRIBUTION.md
+---
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+## Deployment
 
+### Local Deployment
+
+To run the application locally, follow the "Usage" instructions above.
+
+### Cloud Deployment
+
+This application can be deployed to various cloud platforms for public access. Here are some options:
+
+#### Streamlit Sharing
+
+Streamlit provides a free cloud service for sharing your Streamlit applications. Follow the instructions in the [Streamlit Sharing documentation](https://docs.streamlit.io/en/latest/deploy_streamlit_app.html#deploy-to-streamlit-sharing) to deploy your application.
+
+#### Cloud Services (e.g., AWS, GCP, Azure)
+
+You can also deploy the application to various cloud services like AWS, Google Cloud Platform (GCP), or Microsoft Azure. Follow the respective documentation for deploying Python applications on your preferred cloud service.
+
+---
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
