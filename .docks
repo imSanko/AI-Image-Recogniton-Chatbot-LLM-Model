@@ -1,0 +1,20 @@
+docs/
+├── api/
+│   ├── gemini.md
+│   └── streamlit.md
+├── development/
+│   ├── contributing.md
+│   ├── code_of_conduct.md
+│   └── environment_setup.md
+├── user_guide/
+│   ├── installation.md
+│   ├── usage.md
+│   ├── deployment.md
+│   └── troubleshooting.md
+├── assets/
+│   ├── screenshots/
+│   │   ├── home_screen.png
+│   │   └── response_screen.png
+│   └── diagrams/
+│       └── architecture.png
+└── README.md
