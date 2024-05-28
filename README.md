@@ -8,7 +8,7 @@ This project is a Streamlit application that utilizes the Google Generative AI G
 
 ## Features
 
-- Upload images in JPG, JPEG, or PNG format
+- Upload images in JPG, JPEG, or PNG format.
 - Enter text prompts to ask questions or provide context
 - Receive responses from the Gemini model based on the input image and/or text
 - Responsive UI with custom CSS styling
