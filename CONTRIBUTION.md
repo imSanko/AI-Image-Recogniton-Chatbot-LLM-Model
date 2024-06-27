@@ -42,9 +42,9 @@ Blank [] = For Unselecting.
 
 ## Features
 
-- Upload images and generate captions.
-- Supports various image formats (JPG, PNG, etc.).
-- Utilizes the powerful Transformer architecture for image captioning.
+- Upload images and generate captions
+- Supports various image formats (JPG, PNG, etc.)
+- Utilizes the powerful Transformer architecture for image captioning
 
 ## Requirements
 
