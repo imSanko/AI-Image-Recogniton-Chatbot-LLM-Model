@@ -1,6 +1,7 @@
 
 ## Contributing
-Contributions are welcome! To contribute to this project, please follow these steps:
+Contributions are welcome! 
+To contribute to this project, please follow these steps:
 
 Fork the repository
 Create a new branch for your feature or bug fix (git checkout -b my-new-feature)
