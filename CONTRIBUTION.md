@@ -1,6 +1,7 @@
 
 ## Contributing
 Contributions are welcome! 
+
 To contribute to this project, please follow these steps:
 
 Fork the repository
