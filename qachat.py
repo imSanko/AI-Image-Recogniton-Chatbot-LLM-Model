@@ -15,7 +15,7 @@ def get_gemini_response(question):
     response=chat.send_message(question,stream=True)
     return response
 
-##initialize our streamlit app
+##initialize the streamlit app
 
 st.set_page_config(page_title="Q&A Demo")
 
